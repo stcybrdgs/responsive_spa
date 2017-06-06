@@ -1,2 +1,2 @@
 # Responsive SPA
-This project is another exercise in building a responsive SPA using Sass and Susy.
+This project is an exercise in building a responsive SPA using Sass and Susy.
